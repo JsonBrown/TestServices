@@ -2,36 +2,36 @@
   "events": [
     {
       "id": 1,
-      "Name": "Ben David & Friends at Goat Ridge Brewery",
-      "Description": "Ben David & Friends at Goat Ridge Brewery Saturday, March 30 from 8-10pm Please join us in welcoming back our friend Ben David & (his) Friends!",
-      "Image": "https://s3.amazonaws.com/growlermag-media/Goat-Ridge-Brewing-2.jpg",
-      "StartTime": "06/23/2019 03:00 PM UTC",
-      "EndTime": "06/23/2019 07:00 PM UTC",
-      "Location": "17 Central Ave W, New London, MN 56273, USA",
-      "Latitude": 45.3011189,
-      "Longitude": -94.94460839999999
+      "name": "Ben David & Friends at Goat Ridge Brewery",
+      "description": "Ben David & Friends at Goat Ridge Brewery Saturday, March 30 from 8-10pm Please join us in welcoming back our friend Ben David & (his) Friends!",
+      "image": "https://s3.amazonaws.com/growlermag-media/Goat-Ridge-Brewing-2.jpg",
+      "startTime": "06/23/2019 03:00 PM UTC",
+      "endTime": "06/23/2019 07:00 PM UTC",
+      "location": "17 Central Ave W, New London, MN 56273, USA",
+      "latitude": 45.3011189,
+      "longitude": -94.94460839999999
     },
     {
       "id": 2,
-      "Name": "2019 Rebel Spring RV Camper Show",
-      "Description": "2019 Rebel Spring RV Camper Show March 28-31st, 2019 at the Willmar Civic Center Thursday, March 28th: 3pm-8pm Friday, March 29th: 10am–8pm Saturday, March 30th: 10am-6pm Sunday, March 31st: 11am-3pm FREE Admission!",
-      "Image": "https://s3.amazonaws.com/images.rvs.com/images/popular-brands/2018-starcraft_satellite.jpg",
-      "StartTime": "06/30/2019 09:00 AM UTC",
-      "EndTime": "06/30/2019 05:00 PM UTC",
-      "Location": "2707 Arena Dr, Willmar, MN 56201, USA",
-      "Latitude": 45.148844,
-      "Longitude": -95.00663299999997
+      "name": "2019 Rebel Spring RV Camper Show",
+      "description": "2019 Rebel Spring RV Camper Show March 28-31st, 2019 at the Willmar Civic Center Thursday, March 28th: 3pm-8pm Friday, March 29th: 10am–8pm Saturday, March 30th: 10am-6pm Sunday, March 31st: 11am-3pm FREE Admission!",
+      "image": "https://s3.amazonaws.com/images.rvs.com/images/popular-brands/2018-starcraft_satellite.jpg",
+      "startTime": "06/30/2019 09:00 AM UTC",
+      "endTime": "06/30/2019 05:00 PM UTC",
+      "location": "2707 Arena Dr, Willmar, MN 56201, USA",
+      "latitude": 45.148844,
+      "longitude": -95.00663299999997
     },
     {
       "id": 3,
-      "Name": "Willmar Gun Show",
-      "Description": "Willmar Gun Show March 30-31, 2019 Saturday 8am-5pm and Sunday 9am-3pm at the Willmar Civic Center Admission is $5.00 Women, Children under 16 and Current Military are FREE Children must be accompanied by an adult Blue Light Vendor Special",
-      "Image": "https://www.theamericanconservative.com/wp-content/uploads/2019/01/gun-show-554x354.jpg",
-      "StartTime": "06/30/2019 09:00 AM UTC",
-      "EndTime": "06/30/2019 05:00 PM UTC",
-      "Location": "2707 Arena Dr, Willmar, MN 56201, USA",
-      "Latitude": 45.148844,
-      "Longitude": -95.00663299999997
+      "name": "Willmar Gun Show",
+      "description": "Willmar Gun Show March 30-31, 2019 Saturday 8am-5pm and Sunday 9am-3pm at the Willmar Civic Center Admission is $5.00 Women, Children under 16 and Current Military are FREE Children must be accompanied by an adult Blue Light Vendor Special",
+      "image": "https://www.theamericanconservative.com/wp-content/uploads/2019/01/gun-show-554x354.jpg",
+      "startTime": "06/30/2019 09:00 AM UTC",
+      "endTime": "06/30/2019 05:00 PM UTC",
+      "location": "2707 Arena Dr, Willmar, MN 56201, USA",
+      "latitude": 45.148844,
+      "longitude": -95.00663299999997
     }
   ],
   "profile": {
