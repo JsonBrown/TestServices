@@ -9,7 +9,8 @@
       "endTime": "2019-06-23T19:00:00.0000000+00:00",
       "location": "17 Central Ave W, New London, MN 56273, USA",
       "latitude": 45.3011189,
-      "longitude": -94.94460839999999
+      "longitude": -94.94460839999999,
+      "featured": true
     },
     {
       "id": 2,
@@ -20,7 +21,8 @@
       "endTime": "2019-06-30T05:00:00.0000000+00:00",
       "location": "2707 Arena Dr, Willmar, MN 56201, USA",
       "latitude": 45.148844,
-      "longitude": -95.00663299999997
+      "longitude": -95.00663299999997,
+      "featured": false
     },
     {
       "id": 3,
@@ -31,7 +33,8 @@
       "endTime": "2019-06-30T17:00:00.0000000+00:00",
       "location": "2707 Arena Dr, Willmar, MN 56201, USA",
       "latitude": 45.148844,
-      "longitude": -95.00663299999997
+      "longitude": -95.00663299999997,
+      "featured": false
     }
   ],
   "profile": {
