@@ -3,22 +3,22 @@
         {
           "Title": "46 North Wild Rice Ale",
           "Description":"Your paddle slips into the still water, breaking the reflection of spruce trees and tamaracks, while off in the distance a loon calls into the quiet. You’ve crossed over into the north. Brewed with certified organic malts and hops, and wild-grown, traditionally harvested wild rice, 46 North is a tribute to the lakes and prairies of our beloved northlands. Crisp and clear, with an earthy finish, this is a beer that will take you to the lakes.",
-          "Image": { uri: "https://secureservercdn.net/198.71.233.87/5bd.c57.myftpupload.com/wp-content/uploads/46-north2-79x300.png" }
+          "Image": { "uri": "https://secureservercdn.net/198.71.233.87/5bd.c57.myftpupload.com/wp-content/uploads/46-north2-79x300.png" }
         },
         {
           "Title": "Detonator Doppelbock",
           "Description":"Your paddle slips into the still water, breaking the reflection of spruce trees and tamaracks, while off in the distance a loon calls into the quiet. You’ve crossed over into the north. Brewed with certified organic malts and hops, and wild-grown, traditionally harvested wild rice, 46 North is a tribute to the lakes and prairies of our beloved northlands. Crisp and clear, with an earthy finish, this is a beer that will take you to the lakes.",
-          "Image": { uri: "https://secureservercdn.net/198.71.233.87/5bd.c57.myftpupload.com/wp-content/uploads/Detonator-77x300.png" }
+          "Image": { "uri": "https://secureservercdn.net/198.71.233.87/5bd.c57.myftpupload.com/wp-content/uploads/Detonator-77x300.png" }
         },
         {
           "Title": "Lunchbucket PB&J Ale",
           "Description":"Every rail working in the shops or on the trains has to have lunch sometime. And what’s better for lunch than a good old fashioned peanut butter and jelly sandwich? A peanut butter and jelly sandwich and beer!  For our Lakes Area Brewer’s Challenge beer, we combined the warm, nutty flavor of peanut butter with the sweet fruit flavor of raspberries, along with toasty, bready malt and just a hint of hops. You wanted peanut butter, you got it. With jelly. And beer. 5.4% ABV, 15 IBU, 11 SRM. Contains peanuts and lactose.",
-          "Image": { uri: "https://secureservercdn.net/198.71.233.87/5bd.c57.myftpupload.com/wp-content/uploads/lunchbucket-handle-77x300.png" }
+          "Image": { "uri": "https://secureservercdn.net/198.71.233.87/5bd.c57.myftpupload.com/wp-content/uploads/lunchbucket-handle-77x300.png" }
         },
         {
           "Title": "Jubilee Hard Seltzer",
           "Description": "Your paddle slips into the still water, breaking the reflection of spruce trees and tamaracks, while off in the distance a loon calls into the quiet. You’ve crossed over into the north. Brewed with certified organic malts and hops, and wild-grown, traditionally harvested wild rice, 46 North is a tribute to the lakes and prairies of our beloved northlands. Crisp and clear, with an earthy finish, this is a beer that will take you to the lakes.",
-          "Image": { uri: "https://secureservercdn.net/198.71.233.87/5bd.c57.myftpupload.com/wp-content/uploads/Detonator-77x300.png" }
+          "Image": { "uri": "https://secureservercdn.net/198.71.233.87/5bd.c57.myftpupload.com/wp-content/uploads/Detonator-77x300.png" }
         }
         ]
 }
